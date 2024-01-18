@@ -24,7 +24,7 @@
   "devDependencies": {
     "@cypress/snapshot": "2.1.7",
     "@sveltejs/adapter-static": "3.0.1",
-    "@sveltejs/kit": "2.3.0",
+    "@sveltejs/kit": "2.3.5",
     "@sveltejs/vite-plugin-svelte": "^3.0.1",
     "@testing-library/svelte": "4.0.5",
     "@types/pako": "2.0.3",
@@ -36,7 +36,7 @@
     "c8": "7.14.0",
     "chai": "^4.3.7",
     "cssnano": "^6.0.0",
-    "cy-verify-downloads": "0.2.2",
+    "cy-verify-downloads": "0.2.3",
     "cypress": "12.17.4",
     "cypress-localstorage-commands": "2.2.5",
     "eslint": "8.56.0",
